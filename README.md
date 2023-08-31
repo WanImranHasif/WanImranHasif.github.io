@@ -4,7 +4,7 @@
 
 ## About
 - **IC Number:** 900801-10-5691								       		
-- **Date Of Birth:** 1th August 1990	
+- **Date Of Birth:** 1st August 1990	
 - **Age:** 33			
 - **Gender:** Male
 - **Nationality:** Malaysian
